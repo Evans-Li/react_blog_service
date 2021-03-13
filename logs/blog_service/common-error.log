@@ -1,0 +1,583 @@
+2020-09-14 11:27:15,415 ERROR 48400 [-/127.0.0.1/-/18ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48400
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:22,173 ERROR 48400 [-/127.0.0.1/-/2ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48400
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:34,302 ERROR 48468 [-/127.0.0.1/-/13ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48468
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:34,952 ERROR 48468 [-/127.0.0.1/-/2ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48468
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:35,294 ERROR 48468 [-/127.0.0.1/-/2ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48468
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:35,304 ERROR 48468 [-/127.0.0.1/-/7ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48468
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:35,395 ERROR 48468 [-/127.0.0.1/-/3ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48468
+hostname: Evans-Li-Mac.local
+
+2020-09-14 11:27:39,314 ERROR 48468 [-/127.0.0.1/-/2ms POST /default/getArticle] nodejs.TypeError: Cannot read property 'length' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 48468
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:25:08,176 ERROR 67350 [-/127.0.0.1/-/17ms POST /default/getListByIdLoadMore] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2"
+name: "ER_PARSE_ERRORError"
+pid: 67350
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:26:07,289 ERROR 67350 [-/127.0.0.1/-/3ms POST /default/getListByIdLoadMore] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2"
+name: "ER_PARSE_ERRORError"
+pid: 67350
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:28:17,950 ERROR 67643 [-/127.0.0.1/-/19ms POST /default/getListByIdLoadMore] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2"
+name: "ER_PARSE_ERRORError"
+pid: 67643
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:29:17,437 ERROR 67643 [-/127.0.0.1/-/4ms POST /default/getListByIdLoadMore] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY article.id DESC  LIMIT NaN,2' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1ORDER BY article.id DESC  LIMIT NaN,2"
+name: "ER_PARSE_ERRORError"
+pid: 67643
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:29:53,213 ERROR 67818 [-/127.0.0.1/-/20ms POST /default/getListByIdLoadMore] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: NaN"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2"
+name: "ER_SP_UNDECLARED_VARError"
+pid: 67818
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:51:40,867 ERROR 68169 [-/127.0.0.1/-/3ms POST /default/getListByIdLoadMore] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: NaN"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_SP_UNDECLARED_VARError"
+pid: 68169
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:51:54,351 ERROR 68169 [-/127.0.0.1/-/2ms POST /default/getListByIdLoadMore] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: NaN"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_SP_UNDECLARED_VARError"
+pid: 68169
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:52:10,984 ERROR 68169 [-/127.0.0.1/-/2ms POST /default/getListByIdLoadMore] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=2 ORDER BY article.id DESC LIMIT NaN,2
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: NaN"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=2 ORDER BY article.id DESC LIMIT NaN,2"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_SP_UNDECLARED_VARError"
+pid: 68169
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:53:01,876 ERROR 68169 [-/127.0.0.1/-/2ms POST /default/getListByIdLoadMore] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: NaN"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=1 ORDER BY article.id DESC LIMIT NaN,2"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_SP_UNDECLARED_VARError"
+pid: 68169
+hostname: Evans-Li-Mac.local
+
+2020-09-14 16:53:12,826 ERROR 68169 [-/127.0.0.1/-/1ms POST /default/getListByIdLoadMore] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=2 ORDER BY article.id DESC LIMIT NaN,2
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: NaN"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id,article.title as title,article.introduce as introduce,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id WHERE type_id=2 ORDER BY article.id DESC LIMIT NaN,2"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_SP_UNDECLARED_VARError"
+pid: 68169
+hostname: Evans-Li-Mac.local
+
+2020-09-14 21:50:29,037 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 854403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 22:05:39,150 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870095ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 22:20:50,065 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870891ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 22:25:16,239 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 246153ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 22:42:06,695 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870718ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 22:57:17,590 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 23:12:09,333 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 871728ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 23:27:20,202 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870853ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 23:42:31,032 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870821ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-14 23:57:21,904 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 870856ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-15 02:42:43,944 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 7193237ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-15 05:42:37,385 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 10753200ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-15 06:42:49,972 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 3572475ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-15 09:42:52,176 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 10762163ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-15 10:43:01,728 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 3569531ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+
+2020-09-15 10:50:27,711 ERROR 48261 nodejs.ClusterClientNoResponseError: client no response in 425961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 48261
+hostname: Evans-Li-Mac.local
+

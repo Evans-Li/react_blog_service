@@ -1,0 +1,787 @@
+2020-06-26 00:26:49,251 ERROR 62729 [-/127.0.0.1/-/8ms GET /default/getCommentListById/5] nodejs.TypeError: Assignment to constant variable.
+    at HomeController.getCommentListById (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:138:12)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 62729
+hostname: Evans-Li-Mac.local
+
+2020-06-26 00:26:55,575 ERROR 62729 [-/127.0.0.1/-/5ms GET /default/getCommentListById/5] nodejs.TypeError: Assignment to constant variable.
+    at HomeController.getCommentListById (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:138:12)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 62729
+hostname: Evans-Li-Mac.local
+
+2020-06-26 00:27:38,087 ERROR 62729 [-/127.0.0.1/-/10ms GET /default/getCommentListById/5] nodejs.TypeError: Assignment to constant variable.
+    at HomeController.getCommentListById (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:138:12)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 62729
+hostname: Evans-Li-Mac.local
+
+2020-06-26 03:25:25,967 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 894036ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 03:40:32,698 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 906727ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 03:55:39,374 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 906671ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 04:25:32,763 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 1793382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 07:25:38,476 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 10805711ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 08:25:44,145 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 3605666ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 12:25:36,570 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 14392420ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 14:26:38,275 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 7261698ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 16:55:46,963 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 8948686ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 18:45:03,569 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 6556602ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-26 20:33:12,350 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 6488757ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 01:25:16,813 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 901709ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 01:55:11,218 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 1794402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 02:10:17,926 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 906707ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 02:25:24,592 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 906664ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 02:55:19,223 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 1793870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 03:10:25,210 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 905983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 06:10:28,949 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 10803736ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 13:11:26,659 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 7260645ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 15:40:35,321 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 8948661ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 16:27:36,454 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 2821130ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 19:27:26,571 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 104174ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-27 19:30:06,526 ERROR 18231 nodejs.ClusterClientNoResponseError: client no response in 139841ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 18231
+hostname: Evans-Li-Mac
+
+2020-06-28 01:02:15,244 ERROR 18103 [-/::1/-/9ms GET /default/getLikeCount] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: 
+      SELECT article.id as id,
+      article.like_count as like_count
+      FROM article WHERE article.id=undefined
+    
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n      SELECT article.id as id,\n      article.like_count as like_count\n      FROM article WHERE article.id=undefined\n    "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18103
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:03:10,793 ERROR 18103 [-/::1/-/3ms GET /default/getLikeCount?id=1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: 
+      SELECT article.id as id,
+      article.like_count as like_count
+      FROM article WHERE article.id=undefined
+    
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n      SELECT article.id as id,\n      article.like_count as like_count\n      FROM article WHERE article.id=undefined\n    "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18103
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:04:23,592 ERROR 18341 [-/::1/-/9ms GET /default/getLikeCount?id=1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: 
+      SELECT article.id as id,
+      article.like_count as like_count
+      FROM article WHERE article.id = undefined
+    
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n      SELECT article.id as id,\n      article.like_count as like_count\n      FROM article WHERE article.id = undefined\n    "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18341
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:04:30,848 ERROR 18341 [-/::1/-/2ms GET /default/getLikeCount?id=1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: 
+      SELECT article.id as id,
+      article.like_count as like_count
+      FROM article WHERE article.id = undefined
+    
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n      SELECT article.id as id,\n      article.like_count as like_count\n      FROM article WHERE article.id = undefined\n    "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18341
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:40:23,520 ERROR 21293 [-/127.0.0.1/-/4ms POST /default/doLike/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = "update article set like_count = like_count + 1 where id =" + undefin' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: let sql2 = "update article set like_count = like_count + 1 where id =" + undefined
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = \"update article set like_count = like_count + 1 where id =\" + undefin' at line 1"
+sqlState: "42000"
+index: 0
+sql: "let sql2 = \"update article set like_count = like_count + 1 where id =\" + undefined"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 21293
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:41:43,196 ERROR 21723 [-/127.0.0.1/-/12ms POST /default/doLike] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = "update article set like_count = like_count + 1 where id =" + 1' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: let sql2 = "update article set like_count = like_count + 1 where id =" + 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = \"update article set like_count = like_count + 1 where id =\" + 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "let sql2 = \"update article set like_count = like_count + 1 where id =\" + 1"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 21723
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:42:06,391 ERROR 21723 [-/127.0.0.1/-/1ms POST /default/doLike] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = "update article set like_count = like_count + 1 where id =" + 1' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: let sql2 = "update article set like_count = like_count + 1 where id =" + 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = \"update article set like_count = like_count + 1 where id =\" + 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "let sql2 = \"update article set like_count = like_count + 1 where id =\" + 1"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 21723
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:42:56,806 ERROR 21937 [-/127.0.0.1/-/15ms POST /default/doLike] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = "update article set like_count = like_count + 1 where id =" + [object' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: let sql2 = "update article set like_count = like_count + 1 where id =" + [object Object]
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = \"update article set like_count = like_count + 1 where id =\" + [object' at line 1"
+sqlState: "42000"
+index: 0
+sql: "let sql2 = \"update article set like_count = like_count + 1 where id =\" + [object Object]"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 21937
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:43:19,007 ERROR 21959 [-/127.0.0.1/-/15ms POST /default/doLike] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = "update article set like_count = like_count + 1 where id =" + 1' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: let sql2 = "update article set like_count = like_count + 1 where id =" + 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'let sql2 = \"update article set like_count = like_count + 1 where id =\" + 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "let sql2 = \"update article set like_count = like_count + 1 where id =\" + 1"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 21959
+hostname: Evans-Li-Mac.local
+
+2020-06-28 01:44:07,765 ERROR 22013 [-/127.0.0.1/-/12ms POST /default/doLike] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" + 1' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: update article set like_count = like_count + 1 where id =" + 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\" + 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "update article set like_count = like_count + 1 where id =\" + 1"
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 22013
+hostname: Evans-Li-Mac.local
+
+2020-06-28 03:56:36,135 ERROR 32913 [-/127.0.0.1/-/15ms POST /default/doLike] nodejs.ReferenceError: Cannot access 'aa' before initialization
+    at HomeController.doLike (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:167:36)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 32913
+hostname: Evans-Li-Mac.local
+
+2020-06-28 03:56:40,983 ERROR 32913 [-/127.0.0.1/-/2ms POST /default/doLike] nodejs.ReferenceError: Cannot access 'aa' before initialization
+    at HomeController.doLike (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:167:36)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 32913
+hostname: Evans-Li-Mac.local
+
+2020-06-28 04:21:01,930 ERROR 35083 [-/127.0.0.1/-/15ms POST /default/doLike] nodejs.ReferenceError: aa is not defined
+    at HomeController.doLike (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:164:26)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:13)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 35083
+hostname: Evans-Li-Mac.local
+
+2020-06-28 04:21:05,968 ERROR 35083 [-/127.0.0.1/-/2ms POST /default/doLike] nodejs.ReferenceError: aa is not defined
+    at HomeController.doLike (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:164:26)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:13)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 35083
+hostname: Evans-Li-Mac.local
+
+2020-06-28 04:21:16,619 ERROR 35083 [-/127.0.0.1/-/1ms POST /default/doLike] nodejs.ReferenceError: aa is not defined
+    at HomeController.doLike (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:164:26)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:13)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 35083
+hostname: Evans-Li-Mac.local
+
+2020-06-28 04:21:19,971 ERROR 35083 [-/127.0.0.1/-/1ms POST /default/doLike] nodejs.ReferenceError: aa is not defined
+    at HomeController.doLike (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:164:26)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:13)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 35083
+hostname: Evans-Li-Mac.local
+
+2020-06-28 09:17:35,083 ERROR 52098 [-/127.0.0.1/-/17ms POST /default/doLike] nodejs.TypeError: Cannot read property 'like' of null
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:35)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 52098
+hostname: Evans-Li-Mac.local
+
+2020-06-28 09:17:44,420 ERROR 52116 [-/127.0.0.1/-/15ms POST /default/doLike] nodejs.TypeError: Cannot read property 'like' of null
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:35)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 52116
+hostname: Evans-Li-Mac.local
+
+2020-06-28 09:17:51,568 ERROR 52116 [-/127.0.0.1/-/1ms POST /default/doLike] nodejs.TypeError: Cannot read property 'like' of null
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:12:35)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 52116
+hostname: Evans-Li-Mac.local
+
+2020-06-28 09:18:04,184 ERROR 52133 [-/127.0.0.1/-/17ms POST /default/doLike] nodejs.ReferenceError: likeSession is not defined
+    at likeauth (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/middleware/likeauth.js:13:5)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-compose/index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 52133
+hostname: Evans-Li-Mac.local
+
+2020-08-31 15:48:41,226 ERROR 42824 [-/127.0.0.1/-/0ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_ACCESS_DENIED_ERROR"
+errno: 1045
+sqlMessage: "Access denied for user 'root'@'localhost' (using password: YES)"
+sqlState: "28000"
+fatal: true
+name: "ER_ACCESS_DENIED_ERRORError"
+pid: 42824
+hostname: Evans-Li-Mac.local
+
+2020-09-11 20:50:47,547 ERROR 5143 [-/127.0.0.1/-/0ms GET /] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+    --------------------
+    at Protocol._enqueue (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 3306
+fatal: true
+name: "ECONNREFUSEDError"
+pid: 5143
+hostname: Evans-Li-Mac.local
+

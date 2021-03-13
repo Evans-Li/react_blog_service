@@ -1,0 +1,1465 @@
+2020-09-12 02:12:17,179 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 7193101ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 03:11:44,802 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 3567460ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 03:26:51,097 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 886190ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 03:42:01,380 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 910254ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 04:12:07,266 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 1805754ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 04:27:15,650 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 908299ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 07:27:24,831 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 10809160ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 08:01:20,284 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 2035435ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 09:37:17,774 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 156139ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 10:27:35,899 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 2998110ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 10:42:24,730 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 888821ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 10:49:45,752 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 441020ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 20:18:58,522 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 147114ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 20:20:07,706 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 69171ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 20:22:17,946 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 89537ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 20:37:09,541 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 891588ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 21:07:08,098 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 1798553ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 21:18:44,213 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 696111ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 21:34:39,961 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 891101ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 22:04:39,933 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 1799969ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 22:34:38,856 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 1798920ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 23:04:37,655 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 1798793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 23:19:47,128 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 909469ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-12 23:22:11,212 ERROR 5206 nodejs.ClusterClientNoResponseError: client no response in 144082ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5206
+hostname: Evans-Li-Mac.local
+
+2020-09-13 02:08:13,432 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 5000852ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 02:19:45,381 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 691945ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 02:34:43,488 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 878096ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 02:49:50,562 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 907071ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 03:19:48,851 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 1798283ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 03:34:59,232 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 910380ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 03:40:56,815 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 357581ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 03:55:49,380 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 852553ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 04:25:50,976 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 1801593ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 04:41:01,344 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 910364ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 05:10:56,902 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 1795549ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 05:26:07,229 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 910323ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 05:41:52,875 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 945638ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 06:37:57,271 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 3364385ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 07:07:55,369 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 1738069ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 07:23:01,990 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 906616ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 07:38:04,392 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 902397ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 07:53:11,477 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 907076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 08:23:05,815 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 1794318ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 08:34:39,421 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 693603ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 09:27:46,366 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 246159ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 09:42:32,002 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 865629ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 09:57:42,452 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 890437ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 10:27:38,147 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 1795688ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 10:34:44,206 ERROR 73658 nodejs.ClusterClientNoResponseError: client no response in 426057ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 73658
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:45:29,772 ERROR 1086 [-/127.0.0.1/-/7ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC "
+name: "ER_PARSE_ERRORError"
+pid: 1086
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:45:30,562 ERROR 1086 [-/127.0.0.1/-/2ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC "
+name: "ER_PARSE_ERRORError"
+pid: 1086
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:45:43,295 ERROR 1086 [-/127.0.0.1/-/1ms GET /default/getArticle/page=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC "
+name: "ER_PARSE_ERRORError"
+pid: 1086
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:45:52,261 ERROR 1086 [-/127.0.0.1/-/1ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC "
+name: "ER_PARSE_ERRORError"
+pid: 1086
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:46:55,000 ERROR 1183 [-/127.0.0.1/-/10ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC "
+name: "ER_PARSE_ERRORError"
+pid: 1183
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:46:59,113 ERROR 1183 [-/127.0.0.1/-/4ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT undefined,5 ORDER BY article.id DESC "
+name: "ER_PARSE_ERRORError"
+pid: 1183
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:48:38,596 ERROR 1359 [-/127.0.0.1/-/8ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMITundefined,5 ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMITundefined,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMITundefined,5 ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMITundefined,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 1359
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:50:00,904 ERROR 1359 [-/127.0.0.1/-/2ms GET /default/getArticle/pageNum=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMITundefined,5 ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMITundefined,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMITundefined,5 ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMITundefined,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 1359
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:51:33,627 ERROR 1601 [-/127.0.0.1/-/4ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT1,5 ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT1,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT1,5 ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT1,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 1601
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:52:05,286 ERROR 1727 [-/127.0.0.1/-/10ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT1,5' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT1,5 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT1,5' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT1,5 "
+name: "ER_PARSE_ERRORError"
+pid: 1727
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:54:24,141 ERROR 2020 [-/127.0.0.1/-/8ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 1,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 1,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 2020
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:54:37,978 ERROR 2031 [-/127.0.0.1/-/8ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 1,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 1,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 2031
+hostname: Evans-Li-Mac.local
+
+2020-09-13 14:55:30,879 ERROR 2083 [-/127.0.0.1/-/8ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 1,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 1,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 2083
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:00:55,758 ERROR 2502 [-/127.0.0.1/-/10ms GET /default/getArticle/1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'article' in 'order clause'
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article  DESC LIMIT 1,5 
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'article' in 'order clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article  DESC LIMIT 1,5 "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 2502
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:19:20,047 ERROR 3588 [-/127.0.0.1/-/10ms GET /default/getArticle/1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 1,-2 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 1,-2 "
+name: "ER_PARSE_ERRORError"
+pid: 3588
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:20:18,618 ERROR 3588 [-/127.0.0.1/-/2ms GET /default/getArticle/3] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,-2 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-2' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,-2 "
+name: "ER_PARSE_ERRORError"
+pid: 3588
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:20:33,565 ERROR 3681 [-/127.0.0.1/-/8ms GET /default/getArticle/3] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,-1 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,-1 "
+name: "ER_PARSE_ERRORError"
+pid: 3681
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:20:34,669 ERROR 3681 [-/127.0.0.1/-/2ms GET /default/getArticle/3] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,-1 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,-1 "
+name: "ER_PARSE_ERRORError"
+pid: 3681
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:21:19,539 ERROR 3746 [-/127.0.0.1/-/9ms GET /default/getArticle/3] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: n
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,n 
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: n"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT 3,n "
+name: "ER_SP_UNDECLARED_VARError"
+pid: 3746
+hostname: Evans-Li-Mac.local
+
+2020-09-13 15:22:25,364 ERROR 3880 [-/127.0.0.1/-/9ms GET /default/getArticle/3] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: n
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT n
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: n"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY article.id DESC LIMIT n"
+name: "ER_SP_UNDECLARED_VARError"
+pid: 3880
+hostname: Evans-Li-Mac.local
+
+2020-09-13 16:20:23,239 ERROR 7546 [-/127.0.0.1/-/12ms GET /default/getArticle/0] nodejs.ReferenceError: _count is not defined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:224:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:41:56
+
+pid: 7546
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:00:05,228 ERROR 10267 [-/127.0.0.1/-/2ms POST /default/getArticle/1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10267
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:00:28,969 ERROR 10267 [-/127.0.0.1/-/0ms POST /default/getArticle/1?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10267
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:00:59,828 ERROR 10267 [-/127.0.0.1/-/1ms POST /default/getArticle/1?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10267
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:01:21,534 ERROR 10523 [-/127.0.0.1/-/10ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10523
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:01:23,790 ERROR 10523 [-/127.0.0.1/-/1ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10523
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:02:56,042 ERROR 10684 [-/127.0.0.1/-/3ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10684
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:03:12,130 ERROR 10684 [-/127.0.0.1/-/0ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10684
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:03:30,152 ERROR 10684 [-/127.0.0.1/-/0ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10684
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:03:39,868 ERROR 10684 [-/127.0.0.1/-/1ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10684
+hostname: Evans-Li-Mac.local
+
+2020-09-13 17:04:15,793 ERROR 10684 [-/127.0.0.1/-/1ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 10684
+hostname: Evans-Li-Mac.local
+
+2020-09-13 19:08:29,627 ERROR 23855 [-/127.0.0.1/-/10ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:41)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 23855
+hostname: Evans-Li-Mac.local
+
+2020-09-13 19:09:33,567 ERROR 23940 [-/127.0.0.1/-/12ms POST /default/getArticle?pageNum=1&listLen=1] nodejs.TypeError: Cannot read property 'pageNum' of undefined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:194:47)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 23940
+hostname: Evans-Li-Mac.local
+
+2020-09-13 19:51:26,643 ERROR 27283 [-/127.0.0.1/-/18ms POST /default/getArticle] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 6,5 ORDER BY article.id DESC
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY article.id DESC' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id LIMIT 6,5 ORDER BY article.id DESC"
+name: "ER_PARSE_ERRORError"
+pid: 27283
+hostname: Evans-Li-Mac.local
+
+2020-09-13 20:05:05,011 ERROR 28384 [-/127.0.0.1/-/25ms POST /default/getArticle] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5' at line 1
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY id DESC LIMIT 5,-5 
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT article.id as id ,article.title as title ,article.introduce as introduce ,article.is_top as is_top ,FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,article.view_count as view_count ,type.typeName as typeName FROM article LEFT JOIN type ON article.type_id = type.Id ORDER BY id DESC LIMIT 5,-5 "
+name: "ER_PARSE_ERRORError"
+pid: 28384
+hostname: Evans-Li-Mac.local
+
+2020-09-13 20:20:49,559 ERROR 29527 [-/127.0.0.1/-/24ms POST /default/getArticle] nodejs.ReferenceError: Cannot access '_that' before initialization
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:220:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+
+pid: 29527
+hostname: Evans-Li-Mac.local
+
+2020-09-13 20:21:08,279 ERROR 29582 [-/127.0.0.1/-/19ms POST /default/getArticle] nodejs.ReferenceError: val is not defined
+    at HomeController.getArticle (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/app/controller/default/index.js:225:7)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/koa-static-cache/index.js:39:63
+
+pid: 29582
+hostname: Evans-Li-Mac.local
+
+2020-09-13 21:22:52,533 ERROR 34719 [-/127.0.0.1/-/5ms GET /default/getTopArticle] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'artcle.is_top' in 'where clause'
+    at Query.Sequence._packetToError (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:65:19)
+    at /Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/co/index.js:54:5
+    sql: 
+      SELECT article.id as id ,
+      article.title as title ,
+      article.introduce as introduce ,
+      article.is_top as is_top ,
+      FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,
+      article.view_count as view_count ,
+      type.typeName as typeName 
+      FROM article LEFT JOIN type ON article.type_id = type.Id WHERE artcle.is_top=1
+    
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'artcle.is_top' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n      SELECT article.id as id ,\n      article.title as title ,\n      article.introduce as introduce ,\n      article.is_top as is_top ,\n      FROM_UNIXTIME(article.addTime,'%Y-%m-%d' ) as addTime,\n      article.view_count as view_count ,\n      type.typeName as typeName \n      FROM article LEFT JOIN type ON article.type_id = type.Id WHERE artcle.is_top=1\n    "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 34719
+hostname: Evans-Li-Mac.local
+
+2020-09-13 22:32:15,828 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 83003ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 00:35:07,317 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 7217169ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 02:00:25,322 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 5077985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 03:35:02,386 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 5677050ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 04:35:14,982 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 3572548ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 07:35:11,368 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 10776334ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 08:35:23,832 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 3572285ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 08:44:43,899 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 520031ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 09:38:43,538 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 3219613ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
+2020-09-14 09:43:13,595 ERROR 6346 nodejs.ClusterClientNoResponseError: client no response in 122819ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/libing/Desktop/Code/app/react-blog.github.io/service/react-blog.github.io/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6346
+hostname: Evans-Li-Mac.local
+
