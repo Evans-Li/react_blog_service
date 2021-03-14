@@ -210,7 +210,7 @@ class HomeController extends Controller {
 
   //加载文章列表
   async getArticle() {
-    let _LIMIT = 4; // 每次拉取个数
+    let _LIMIT = 10; // 每次拉取个数
     let pageNum = this.ctx.request.body.pagemum;
     console.log(pageNum);
     let startNum = (pageNum * _LIMIT - _LIMIT);
@@ -241,7 +241,7 @@ class HomeController extends Controller {
 
   // list页面 lodeMore
   async getListByIdLoadMore(){
-    let _LIMIT  = 4;
+    let _LIMIT  = 10;
     let id = this.ctx.request.body.id;
     let pageNum = this.ctx.request.body.pagemum;
     let startNum = (pageNum * _LIMIT - _LIMIT); //开始截取索引

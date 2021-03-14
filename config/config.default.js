@@ -45,7 +45,8 @@ module.exports = appInfo => {
   };
   config.security = {
     csrf: {enable: false},
-    domainWhiteList: ['http://localhost:3000','http://localhost:4000','http://jsv5.tk:3000','http://jsv5.tk:4000']
+    domainWhiteList: ['*']
+    // domainWhiteList: ['http://localhost:3000','http://localhost:4000','http://jsv5.tk:3000','http://jsv5.tk:4000']
   };
   config.cors = {
     credentials: true,  
