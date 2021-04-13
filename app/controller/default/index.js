@@ -6,6 +6,13 @@ const ms = require('ms');
 
 const log = (str)=> console.log(str);
 class HomeController extends Controller {
+  async getFlag(){
+    this.ctx.body = {
+      data: {
+        code: 1
+      }
+    }
+  }
   async index() {
     let results = await this.app.mysql.get('content')
     console.log('index被访问了!' + new Date())

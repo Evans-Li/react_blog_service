@@ -16,4 +16,5 @@ module.exports = app =>{
     router.post('/default/getArticle',controller.default.index.getArticle)
     router.post('/default/getListByIdLoadMore',controller.default.index.getListByIdLoadMore)
     router.get('/default/getTopArticle',controller.default.index.getTopArticle)
+    router.get('/default/getFlag',controller.default.index.getFlag)
   }
